@@ -5,7 +5,7 @@
 - Me gusta la musica
 - Me gusta ese taaajooooo
 
-![mi foto](yo.jpeg)
+![mi foto](alf_y_yo.jpeg)
 
 
 
